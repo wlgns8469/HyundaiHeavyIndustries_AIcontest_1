@@ -1,0 +1,23 @@
+Image lst,GT,Prediction,accuracy
+empty_V1.jpg,0,0.0,True
+empty_V10.jpg,0,1.0,False
+empty_V2.jpg,0,0.0,True
+empty_V3.jpg,0,0.0,True
+empty_V4.jpg,0,0.0,True
+empty_V5.jpg,0,0.0,True
+empty_V6.jpg,0,1.0,False
+empty_V7.jpg,0,1.0,False
+empty_V8.jpg,0,0.0,True
+empty_V9.jpg,0,0.0,True
+loaded_V1.jpg,1,1.0,True
+loaded_V10.jpg,1,1.0,True
+loaded_V2.jpg,1,1.0,True
+loaded_V3.jpg,1,1.0,True
+loaded_V4.jpg,1,1.0,True
+loaded_V5.jpg,1,1.0,True
+loaded_V6.jpg,1,1.0,True
+loaded_V7.jpg,1,1.0,True
+loaded_V8.jpg,1,1.0,True
+loaded_V9.jpg,1,1.0,True
+Average Accuracy,85.00%,,
+Inference Speed (ms),199.03ms/image,,
